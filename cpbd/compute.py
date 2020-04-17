@@ -11,7 +11,7 @@ from math import atan2, pi
 from sys import argv
 
 import numpy as np
-from scipy.ndimage import imread
+# from scipy.ndimage import imread
 from skimage.feature import canny
 
 from cpbd.octave import sobel
